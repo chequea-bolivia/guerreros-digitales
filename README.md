@@ -1,5 +1,4 @@
 # Bases de datos trabajada por ChequeaBolivia para la investigación sobre guerreros digitales
----
 En este respositorio se encuentran las bases de datos trabajadas por Chequea Bolivia para la investigación sobre los Guerreros Digitales que publicó en septiembre de 2024.
 Existen dos bases de datos, cada una con sus campos respectivos:
 
